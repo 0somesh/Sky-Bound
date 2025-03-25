@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs: 
-  deploy: enviroment:
+  deploy: enviroment
     name: github-pages
     url: ${{ steps.deployment.output.page_url}}
   runs-on: ubuntu-latest
