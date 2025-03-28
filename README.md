@@ -17,7 +17,7 @@ Mouse movements are used to control the airplane to dodge red balls and collect 
 
 As the level bar increases, the speed of the plane increases until you're in next level.
 
-## License
+## MIT License
 
 This project is licensed under the MIT License.
 
