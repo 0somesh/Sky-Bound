@@ -1,5 +1,5 @@
 # Sky Bound
-A Simple HTML-Based Browser Game in [three.js](https://threejs.org/).
+A Simple HTML based browser game in [three.js](https://threejs.org/).
 
 // Based on Vite 
 
