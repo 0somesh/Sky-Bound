@@ -1,4 +1,4 @@
-# The Aviator
+# Sky Bound
 A Simple HTML-Based Browser Game in [three.js](https://threejs.org/).
 
 
@@ -11,13 +11,9 @@ A Simple HTML-Based Browser Game in [three.js](https://threejs.org/).
 - Contributing
 - License
 
-## Game Overview
-This is a fork of original game by [yakudoo](https://github.com/yakudoo) [here](https://github.com/yakudoo/TheAviator.git). It was supposed to be a simple weekend project cause I had nothing better to do.
 
-![GAME screenshot](https://raw.githubusercontent.com/akay25/TheAviator/master/media/screenshot.png "Game screeshot")
 
 ## How to Play
-To play the game directly, go to [demo site](https://akay25.github.io/TheAviator/). 
 Mouse movements are used to control the airplane to dodge red balls and collect the blue fuel. 
 
 As the level bar increases, the speed of the plane increases until you're in next level.
