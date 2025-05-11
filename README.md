@@ -1,9 +1,7 @@
 # Sky Bound
 A Simple HTML-Based Browser Game in [three.js](https://threejs.org/).
 
-
 ## Table of Contents
-- Game Overview
 - How to Play
 - Game Controls
 - Features
@@ -15,7 +13,6 @@ A Simple HTML-Based Browser Game in [three.js](https://threejs.org/).
 
 ## How to Play
 Mouse movements are used to control the airplane to dodge red balls and collect the blue fuel. 
-
 As the level bar increases, the speed of the plane increases until you're in next level.
 
 ## Development
